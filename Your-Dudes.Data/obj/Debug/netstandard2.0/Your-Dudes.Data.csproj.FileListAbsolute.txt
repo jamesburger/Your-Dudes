@@ -1,0 +1,9 @@
+D:\Code\Your-Dudes\Your-Dudes.Data\bin\Debug\netstandard2.0\Your-Dudes.Data.deps.json
+D:\Code\Your-Dudes\Your-Dudes.Data\bin\Debug\netstandard2.0\Your-Dudes.Data.dll
+D:\Code\Your-Dudes\Your-Dudes.Data\bin\Debug\netstandard2.0\Your-Dudes.Data.pdb
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.csproj.CoreCompileInputs.cache
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.AssemblyInfoInputs.cache
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.AssemblyInfo.cs
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.dll
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.pdb
+D:\Code\Your-Dudes\Your-Dudes.Data\obj\Debug\netstandard2.0\Your-Dudes.Data.csprojAssemblyReference.cache
